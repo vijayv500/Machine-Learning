@@ -1,4 +1,6 @@
-The above Jupyter notebook is about making Wordcloud of Tweets Using Python.
+Collection of my Jupyter notebooks. 
 
-Related blogpost: https://vijayv500.medium.com/making-wordcloud-of-tweets-using-python-ca114b7a4ef4
+Related blog: https://vijayv500.medium.com/
+
+
 
